@@ -1,3 +1,11 @@
+# zhao-java-ffmpeg
+
+本仓 Fork 自 [JAVE2（a-schild/jave2）](https://github.com/a-schild/jave2)，保留 Fork 关系及上游历史，用于学习 Java 调用 FFmpeg 的音视频转码、音轨提取和视频处理能力。项目实现与贡献归属以原作者及 Git 历史为准；本仓当前仅同步上游并补充说明，未宣称新增功能或本机运行验收通过。
+
+2026-11-08 已同步上游 4.2.0 对应 master。后续使用优先按需引入 `jave-core` 与目标平台原生包，避免携带全部平台二进制。遵守上游 GPLv3 许可证，原 README 与许可说明保留如下。
+
+---
+
 # JAVE2
 
 <!--
